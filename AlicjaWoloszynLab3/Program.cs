@@ -4,7 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AlicjaWoloszynLab3
+namespace SQLTest
+
 {
     static class Program
     {
